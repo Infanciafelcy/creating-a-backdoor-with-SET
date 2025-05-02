@@ -63,7 +63,11 @@ In Windows IE, on giving the URL http://192.168.1.2, the fake Google page is dis
 
 
 SET logs the information regarding the Google credentials:
+
+
 ![image](https://github.com/user-attachments/assets/267dce2e-8c6b-4699-afe1-2767f36f21c6)
+
+
 
 SET logs the information in the XML file under /root/.set directory:
 
