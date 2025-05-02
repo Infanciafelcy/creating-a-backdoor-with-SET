@@ -70,4 +70,4 @@ SET logs the information in the XML file under /root/.set directory:
 ![image](https://github.com/user-attachments/assets/7e938928-153b-41cd-8932-0f5fac1e4939)
 
 ## RESULT:
-The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully
+The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully.
